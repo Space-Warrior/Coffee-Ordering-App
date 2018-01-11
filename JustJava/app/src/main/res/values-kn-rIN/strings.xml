@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಕೇವಲ ಜಾವಾ</string>
+    <string name="action_settings">" ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+    <string name="subject_line">" ಕಾಫಿ ಅಗತ್ಯವಿದೆ"</string>
+    <string name="less_than_zero">ನಿಮ್ಮ ಆದೇಶ ತುಂಬಾ ಕಡಿಮೆ</string>
+    <string name="more_than_ten">ನಿಮ್ಮ ಆರ್ಡರ್ ಮಾಡುವಿಕೆ ತುಂಬಾ</string>
+    <string name="mail">" ಮೇಲ್"</string>
+    <string name="total">" ಒಟ್ಟು"</string>
+    <string name="thank_you">" ಧನ್ಯವಾದ"</string>
+    <string name="enjoy_your_coffee">ನಿಮ್ಮ ಕಾಫಿ ಆನಂದಿಸಿ</string>
+    <string name="enjoy_with_cream">" ಕೆನೆಯೊಂದಿಗೆ ನಿಮ್ಮ ಕಾಫಿ ಆನಂದಿಸಿ"</string>
+    <string name="with_chocolate">" ಚಾಕೊಲೇಟ್ನೊಂದಿಗೆ ನಿಮ್ಮ ಕಾಫಿ ಆನಂದಿಸಿ"</string>
+    <string name="with_cream_chocolate">ಚಾಕೊಲೇಟ್ ಮತ್ತು ಕೆನೆಯೊಂದಿಗೆ ನಿಮ್ಮ ಕಾಫಿ ಆನಂದಿಸಿ</string>
+    <string name="name">" ಹೆಸರು"</string>
+    <string name="toppings">" ಮೇಲೋಗರಗಳಿಗೆ"</string>
+    <string name="whipped_cream">" ಹಾಲಿನ ಕೆನೆ"</string>
+    <string name="chocolate">" ಚಾಕೊಲೇಟ್"</string>
+    <string name="quantity">ಪ್ರಮಾಣ</string>
+    <string name="order_summary">" ಆದೇಶ ಸಾರಾಂಶ"</string>
+    <string name="start_up">" ಒಟ್ಟು = $ 0.00 ಧನ್ಯವಾದಗಳು! :)"</string>
+    <string name="order">" ಆದೇಶ"</string>
+</resources>
